@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bekasturua/Redux/issues"
   },
-  "homepage": "https://github.com/bekasturua/Redux#readme"
+  "homepage": "https://github.com/bekasturua/Redux#readme",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
 }
